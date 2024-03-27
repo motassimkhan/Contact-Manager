@@ -29,6 +29,6 @@ https://github.com/motassimkhan/Contact-Manager.git
 
 2. Perform contact management tasks using the GUI.
 
-## Contributing
+## User Interface
 
-Contributions are welcome! Fork the repository, make your changes, and create a pull request.
+![Application](UI.png)
