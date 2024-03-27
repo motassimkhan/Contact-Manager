@@ -36,7 +36,7 @@ class Contacts:
 
 
     def create_left_icon(self):
-        photo = PhotoImage(file='images.png')
+        photo = PhotoImage(file='logo.png')
         label = Label(image=photo)
         label.image = photo
         label.grid(row=0, column=0)
